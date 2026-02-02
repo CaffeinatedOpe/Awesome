@@ -20,6 +20,7 @@ like publicized bookmarks i guess
 ### not quite software? but not just a github, either
 * [Catppuccin](https://catppuccin.com/)
 	* Beautiful color scheme, I use it on everything. Including my blog!
+* [amazing-qr](https://github.com/x-hw/amazing-qr)
 
 ## Repos
 ### just random github repos with stuff  I like
